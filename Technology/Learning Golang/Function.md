@@ -8,17 +8,17 @@ Bạn có muốn mình giải thích sâu hơn về bất kỳ phần nào (như
 
 ---
 
-`package main
+`package main`
 
-import "fmt"
+`import "fmt"`
 
-type User struct { Name string }
+`type User struct { Name string }`
 
-func processUsers(users ...User) func() int { count := 0 return func() int { count++ fmt.Printf("Processed %d users\n", count) return count } }
+`func processUsers(users ...User) func() int { count := 0 return func() int { count++ fmt.Printf("Processed %d users\n", count) return count } }`
 
-func (u *User) updateName(newName string) { [u.Name](http://u.Name) = newName }
+`func (u *User) updateName(newName string) { [u.Name](http://u.Name) = newName }`
 
-func main() { u1 := User{"Alice"} u2 := User{"Bob"}
+`func main() { u1 := User{"Alice"} u2 := User{"Bob"}`
 
 ```
 counter := processUsers(u1, u2)
@@ -29,7 +29,7 @@ u1.updateName("Charlie")
 fmt.Println(u1.Name) *// In: Charlie*
 ```
 
-}`
+`}`
 
 CollapseWrapCopy
 
