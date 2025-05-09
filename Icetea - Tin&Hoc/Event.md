@@ -23,4 +23,4 @@ sẽ chuẩn bị
 - Móc khoá Tin & học 
 
 ---
-Bản nhom
+[[Nhóm hiệp với ban truyền thông]]
