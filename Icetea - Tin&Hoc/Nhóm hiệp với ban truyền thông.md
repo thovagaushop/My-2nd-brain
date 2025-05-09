@@ -13,3 +13,4 @@ Trước event
 
 Nội dung chính của event
 Tiêu đề: 
+Ý tưởng 1: 
