@@ -12,4 +12,4 @@ Trước event
 	- Đăng content hỗ trợ cho thông tin event: dạng hài hước, dạng video, text không, hoặc bắt trend
 
 Nội dung chính của event
-- 
+- Tiêu đề:
