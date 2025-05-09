@@ -16,4 +16,6 @@ Nội dung chính của event
 Event này sẽ làm định kì
 Mục đích: Cập nhật theo dạng phóng sự , thời sự hài hước các thông tin về AI 
 Tiêu đề: 
-Phần 1: Thông tin, cập nhật, update 
+Phần 1: Thông tin, cập nhật, update thông tin
+Phần 2: Thảo luận với nhau
+Phần giải trí
