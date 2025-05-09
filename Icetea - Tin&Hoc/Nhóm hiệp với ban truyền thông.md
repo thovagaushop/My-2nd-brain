@@ -8,4 +8,5 @@ Time:
 Trước event
 
 - Đăng bài: Yêu cầu cụ thể
+	- Đăng bài thông báo về event: Ảnh + text
 	- 
