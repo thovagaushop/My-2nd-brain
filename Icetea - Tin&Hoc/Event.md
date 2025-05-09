@@ -11,7 +11,7 @@ Lý do: Hiện tại trong tháng 5 chỉ có ngày 11 (hơi gần)
 Ý tưởng:
 - Checkin + give away
 - Talk show về AI
-- Giao lưu connect 
+- Giao lưu connect
 
 Chuẩn bị:
 - Bài viết quảng bá trước: Teaser + quiz để khuấy động event sắp tới
