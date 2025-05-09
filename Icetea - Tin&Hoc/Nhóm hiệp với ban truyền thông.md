@@ -3,7 +3,7 @@
 
 Time:
 
-- Tổ chức: 
+- Tổ chức: 21 /.
 
 Trước event
 
