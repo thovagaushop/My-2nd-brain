@@ -21,3 +21,6 @@ Phần thưởng:
 sẽ chuẩn bị
 - 2 cái áo in hình Tin & Học
 - Móc khoá Tin & học 
+
+---
+Bản nhom
