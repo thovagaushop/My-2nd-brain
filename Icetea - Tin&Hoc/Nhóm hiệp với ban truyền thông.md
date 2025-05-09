@@ -2,7 +2,7 @@
 ## Kế hoạch
 
 Time:
-- Demo cho các ae: tối 
+- Demo cho các ae: Tối CN hoặc tối t2 
 - Tổ chức: 21 / 5 / 2025
 - Truyền thông: bắt đầu từ 11/5 
 
