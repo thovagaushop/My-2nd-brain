@@ -9,5 +9,4 @@ Trước event
 
 - Đăng bài: Yêu cầu cụ thể
 	- Đăng bài thông báo về event: Ảnh + text
-	- Đăng content hỗ trợ cho thông tin event: dạng hài hước, dạng video, text không
-	- 
+	- Đăng content hỗ trợ cho thông tin event: dạng hài hước, dạng video, text không, hoặc bắt trend
