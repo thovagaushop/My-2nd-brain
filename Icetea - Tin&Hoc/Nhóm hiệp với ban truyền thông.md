@@ -12,5 +12,7 @@ Trước event
 	- Đăng content hỗ trợ cho thông tin event: dạng hài hước, dạng video, text không, hoặc bắt trend
 
 Nội dung chính của event
+
+Event
 Tiêu đề: 
-Ý tưởng 1: 
+Phần 1: Thông tin, cập nhật, update 
