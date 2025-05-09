@@ -13,6 +13,7 @@ Trước event
 
 Nội dung chính của event
 
-Event
+Event này sẽ làm định kì
+Mục đích: Cập nhật theo dạng phóng sự , thời sự hài hước các thông tin về AI 
 Tiêu đề: 
 Phần 1: Thông tin, cập nhật, update 
