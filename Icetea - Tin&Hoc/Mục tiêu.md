@@ -1,2 +1,3 @@
 
-- Đạt 100 
+- Đạt 100 like và follow
+- 
