@@ -6,4 +6,5 @@
 	Có thể múa, hát, diễn kịch
 	
 	Có quà mang về 
-2. Ngày mai hội thảo: có 2-3 chi
+2. Ngày mai hội thảo: có 2-3 chiên nghiêm túc học từ 9h sáng đến 7h tối thì ghép lớp
+
