@@ -10,7 +10,7 @@ Lý do: Hiện tại trong tháng 5 chỉ có ngày 11 (hơi gần)
 
 Ý tưởng:
 - Checkin + give away
-- Talk show về AI
+- Talk show về AI ( Phóng sự - liên hệ chương trình của Trắng TV ngày xưa )
 - Giao lưu connect
 
 Chuẩn bị:
