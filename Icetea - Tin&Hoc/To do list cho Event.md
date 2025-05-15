@@ -13,4 +13,6 @@
 | Truyền thông     |                      | Có thu hút, quảng bá về event và về quà give away, có thể có mini game trên social trước | Ban Mkt  |
 | Địa điểm tổ chức | Thứ 6 16/5/2025      | Nên sáng sủa và chuyên nghiệp, có míc, loa                                               | ...      |
 | In móc khoá, áo  | Chủ nhật             | Áo thì số lượng ít thôi, móc khoa thì nên có trên 30 cái                                 |          |
-|                  |                      |                                                                                          |          |
+| Quảng bá         |                      |                                                                                          |          |
+
+###
