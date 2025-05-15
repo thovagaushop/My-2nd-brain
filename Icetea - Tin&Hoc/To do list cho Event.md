@@ -19,4 +19,6 @@
 1. 7h30 - 8h: Check in, nhận merch, follow page cũng như trao phiếu số thứ tự
 2. 8h - 8h30: Giao lưu MC + mini game
 3. 8h30 -9h: Phóng sự về AI
-4. 9h trở đi : chụp ảnh tập thể, ra v
+4. 9h trở đi : chụp ảnh tập thể, ra về
+
+Note: để lại hòm thư email để ai mong muốn gia nhập sẽ gửi vào
