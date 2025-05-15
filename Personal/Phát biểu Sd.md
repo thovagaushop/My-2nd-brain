@@ -10,3 +10,4 @@ Chia công cuộc 6000 năm làm 3 thời đại
 | Cầu nguyện    | Giê hô va        | Jesus            | Danh mới                |
 | Cứu           | Giê hô va        | Jesus            | Danh mới                |
 |               |                  |                  |                         |
+
