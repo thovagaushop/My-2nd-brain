@@ -8,8 +8,9 @@
 
 
 
-| Việc cần làm     | Thời gian (Deadline) | Yêu cầu                                                                                  | N   |
-| ---------------- | -------------------- | ---------------------------------------------------------------------------------------- | --- |
-| Truyền thông     |                      | Có thu hút, quảng bá về event và về quà give away, có thể có mini game trên social trước |     |
-| Địa điểm tổ chức | Thứ 6 16/5/2025      | Nên sáng sủa và chuyên nghiệp, có míc, loa                                               |     |
-|                  |                      |                                                                                          |     |
+| Việc cần làm     | Thời gian (Deadline) | Yêu cầu                                                                                  | Assignee |
+| ---------------- | -------------------- | ---------------------------------------------------------------------------------------- | -------- |
+| Truyền thông     |                      | Có thu hút, quảng bá về event và về quà give away, có thể có mini game trên social trước | Ban Mkt  |
+| Địa điểm tổ chức | Thứ 6 16/5/2025      | Nên sáng sủa và chuyên nghiệp, có míc, loa                                               | ...      |
+| In móc khoá, áo  |                      | Áo thì số lượng ít thôi, móc khoa thi                                                    |          |
+|                  |                      |                                                                                          |          |
