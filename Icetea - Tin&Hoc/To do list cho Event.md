@@ -8,6 +8,7 @@
 
 
 
-| Việc cần làm | Thời gian | Yêu cầu                              |
-| ------------ | --------- | ------------------------------------ |
-| Truyền thông |           | Có thu hút, quảng bá về event và về  |
+| Việc cần làm | Thời gian | Yêu cầu                                                                           |
+| ------------ | --------- | --------------------------------------------------------------------------------- |
+| Truyền thông |           | Có thu hút, quảng bá về event và về quà give away, có thể có mini game trên socia |
+|              |           |                                                                                   |
