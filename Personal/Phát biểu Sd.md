@@ -7,6 +7,6 @@ Chia công cuộc 6000 năm làm 3 thời đại
 | ------------- | ---------------- | ---------------- | ----------------------- |
 | Đấng Cứu Chúa | Giê hô va        | Đức Jesus        | Danh mới                |
 | Nhân Chứng    | Giê hô va        | Jesus            | Danh mới                |
-| Cầu nguyện    |                  |                  |                         |
+| Cầu nguyện    | Giê hô va        |                  |                         |
 | Cứu           |                  |                  |                         |
 |               |                  |                  |                         |
