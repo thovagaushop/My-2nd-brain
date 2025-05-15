@@ -16,4 +16,6 @@
 | Quảng bá         |                      |                                                                                          |          |
 
 ### Timeline Event
-1. 7h30 - 8h: Check in, nhận merch, follow page cũng như trao phiếu s
+1. 7h30 - 8h: Check in, nhận merch, follow page cũng như trao phiếu số thứ tự
+2. 8h - 8h30: Giao lưu MC + mini game
+3. 
