@@ -11,5 +11,5 @@
 | Việc cần làm     | Thời gian | Yêu cầu                                                                                  |
 | ---------------- | --------- | ---------------------------------------------------------------------------------------- |
 | Truyền thông     |           | Có thu hút, quảng bá về event và về quà give away, có thể có mini game trên social trước |
-| Địa điểm tổ chức |           | Nên sáng sủa và chuyên nghiệp                                                            |
+| Địa điểm tổ chức |           | Nên sáng sủa và chuyên nghiệp, có míc, loa                                               |
 |                  |           |                                                                                          |
