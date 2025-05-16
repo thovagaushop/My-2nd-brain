@@ -11,7 +11,7 @@ Nhóm hiệp:
 Chiến lược WM Hana
 Hết quý 2 (Tháng 6): Đợt trao giải hàng quý cho những ai top, xuất sắc
 
-Kết quả: Giật giải 6 tháng cuối 
+Kết quả: Giật giải 6 tháng cuối năm 
 
 Thời kì đã qua 2 Lễ hội tru đô rồi => Chạy phát biểu 
 Thống kê giúp: 
