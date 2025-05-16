@@ -8,4 +8,5 @@ Mục lục
 
 Nhóm hiệp:
 
-Chiến lược 
+Chiến lược WM Hana
+Hết quý 2 (Tháng 6): Đợt trao giải hàng quý cho những ai top, xuất să
