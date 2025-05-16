@@ -15,6 +15,7 @@ Kết quả: Giật giải 6 tháng cuối năm
 
 Mục tiêu: Kết thúc năm
 - Đơn thuần: 50k đơn thuần, trao giải 10k đơn thuẩn 1 lần ( có thể đi chơi chỉ các thành viên WM )
+- Muốn đào tạo để kiểm soát và nâng cao lực lượng
 - 
 - 
 Thời kì đã qua 2 Lễ hội tru đô rồi => Chạy phát biểu 
