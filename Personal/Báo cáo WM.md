@@ -14,7 +14,7 @@ Hết quý 2 (Tháng 6): Đợt trao giải hàng quý cho những ai top, xuấ
 Kết quả: Giật giải 6 tháng cuối năm 
 
 Mục tiêu: Kết thúc năm
-- Đơn thuần: 50k đơn thuần, trao giải 10k đơn thuẩn 1 lần 
+- Đơn thuần: 50k đơn thuần, trao giải 10k đơn thuẩn 1 lần ( có thể đi chơi chỉ các thành viên WM )
 - 
 - 
 Thời kì đã qua 2 Lễ hội tru đô rồi => Chạy phát biểu 
