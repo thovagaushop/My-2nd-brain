@@ -2,4 +2,4 @@
 
 Hữu hiệu: 5 / 3 
 
-Bapt
+Baptem: 1 WM, 1 Sinh viên 
