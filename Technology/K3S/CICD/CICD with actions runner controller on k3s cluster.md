@@ -17,7 +17,15 @@ helm install arc \
 ##### Step 2: Authenticating to github API
 
 ##### Step 3: Deploy runners scale sets
-* *
+* Using Helm chart and cli set variable:
+```
+	
+
+```
+
+* Using values.yaml file
+	
+
 
 ### Using OIDC and Aws Role to setup credential of AWS
 
