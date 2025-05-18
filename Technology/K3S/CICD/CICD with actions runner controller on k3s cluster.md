@@ -3,6 +3,15 @@
 Visit the [documents of Github actions about ARC](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners-with-actions-runner-controller/quickstart-for-actions-runner-controller): 
 
 ##### Step 1: Installing Actions runner controller:
+
+```
+NAMESPACE="arc-systems"
+helm install arc \
+    --namespace "${NAMESPACE}" \
+    --create-namespace \
+    oci://ghcr.io/actions/actions-runner-controller-charts/gha-runner-scale-set-controller
+```
+
 ##### Step 2: Authenticating to github API
 
 ##### Step 3: Deploy runners scale sets
