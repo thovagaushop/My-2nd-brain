@@ -11,12 +11,3 @@ Chia công cuộc 6000 năm làm 3 thời đại
 | Cứu           | Giê hô va        | Jesus            | Danh mới                |
 |               |                  |                  |                         |
 
-
-> [!adasdsad] Title
-> Contents
-
----
-[^1]sdasdsa
-
-[^1]: sdasdsadsad
-	
