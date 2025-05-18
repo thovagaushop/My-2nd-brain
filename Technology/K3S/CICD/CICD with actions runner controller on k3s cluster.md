@@ -1,6 +1,6 @@
 
-### Deploy ARC to k3s
-
+### Deploy ARC (Github runner) to k3s
+Using the documents of Github actions about ARC: 
 
 
 
