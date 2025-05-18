@@ -5,7 +5,7 @@ Visit the [documents of Github actions about ARC](https://docs.github.com/en/act
 ##### Step 1: Installing Actions runner controller:
 ##### Step 2: Authenticating to github API
 
-####
+##### Step 3: Deploy runners scale sets
 
 ### Using OIDC and Aws Role to setup credential of AWS
 
