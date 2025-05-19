@@ -39,5 +39,5 @@ Explain:
 	Go to IAM and create new role
 	- Choose Web identity
 	- Choose identity provider: token.actions.githubusercontent.com
-	- 
+	- Input Github organization url: https://github.com/your_org
 3. 
