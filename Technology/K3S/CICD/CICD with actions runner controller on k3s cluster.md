@@ -31,7 +31,8 @@ helm install arc \
 ### Using OIDC and Aws Role to setup credential of AWS
 
 Explain: 
-1. Create identity providers
+1. **Create identity providers**
 	Go to IAM and create Identity Provider
-	- Provider U
-2. Setup Assume Roles 
+	- Provider URL: https://token.actions.githubusercontent.com
+	- Audience: sts.amazonaws.com
+2. **Setup Assume Roles** 
