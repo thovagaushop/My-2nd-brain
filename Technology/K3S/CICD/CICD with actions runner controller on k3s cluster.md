@@ -46,7 +46,117 @@ helm install "${INSTALLATION_NAME}" \
 
 * Using values.yaml file
 ```
+githubConfigUrl: "https://github.com/txvitdev-org"
 
+githubConfigSecret: pre-defined-secret
+
+minRunners: 1
+
+maxRunners: 5
+
+template:
+
+  spec:
+
+    initContainers:
+
+    - name: init-dind-externals
+
+      image: ghcr.io/txvitdev/its-action-runner:latest
+
+      command: ["cp", "-r", "/home/runner/externals/.", "/home/runner/tmpDir/"]
+
+      volumeMounts:
+
+        - name: dind-externals
+
+          mountPath: /home/runner/tmpDir
+
+    containers:
+
+    - name: runner
+
+      image: ghcr.io/txvitdev/its-action-runner:latest
+
+      command: ["/home/runner/run.sh"]
+
+      env: 
+
+        - name: DOCKER_HOST
+
+          value: unix:///var/run/docker.sock
+
+      volumeMounts:
+
+        - name: setup-ruby
+
+          mountPath: /opt/hostedtoolcache
+
+        - name: work
+
+          mountPath: /home/runner/_work
+
+        - name: dind-sock
+
+          mountPath: /var/run
+
+  
+
+    - name: dind
+
+      image: docker:dind
+
+      args:
+
+        - dockerd
+
+        - --host=unix:///var/run/docker.sock
+
+        - --group=$(DOCKER_GROUP_GID)
+
+      env:
+
+        - name: DOCKER_GROUP_GID
+
+          value: "123"
+
+      securityContext:
+
+        privileged: true
+
+      volumeMounts:
+
+        - name: work
+
+          mountPath: /home/runner/_work
+
+        - name: dind-sock
+
+          mountPath: /var/run
+
+        - name: dind-externals
+
+          mountPath: /home/runner/externals
+
+  
+
+    volumes:
+
+    - name: setup-ruby
+
+      emptyDir: {}
+
+    - name: work
+
+      emptyDir: {}
+
+    - name: dind-sock
+
+      emptyDir: {}
+
+    - name: dind-externals
+
+      emptyDir: {}
 ```
 
 ### Using OIDC and Aws Role to setup credential of AWS
