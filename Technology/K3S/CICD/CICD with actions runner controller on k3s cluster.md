@@ -164,8 +164,29 @@ The above values.yaml file describe that:
 - Auto scaling from 1 to 5 instance
 - Using image of txvitdev: Have docker install and install GCC for runby setup
 The Dockerfile of ghcr.io/txvitdev/its-action-runner :
-```
 
+```
+FROM ghcr.io/actions/actions-runner:latest
+
+USER root
+
+RUN apt-get update && apt-get install -y \
+
+      unzip git curl autoconf bison build-essential \
+
+      libssl-dev libyaml-dev libreadline-dev \
+
+      zlib1g-dev libncurses5-dev libffi-dev libgdbm-dev && rm -rf /var/lib/apt/lists/*
+
+RUN curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "/tmp/awscliv2.zip" \
+
+  && unzip /tmp/awscliv2.zip -d /tmp \
+
+  && /tmp/aws/install \
+
+  && rm -rf /tmp/aws /tmp/awscliv2.zip
+
+USER runner
 
 ```
 
