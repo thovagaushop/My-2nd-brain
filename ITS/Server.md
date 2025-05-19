@@ -5,11 +5,11 @@ IP: 10.241.93.218
 
 ### K3S Cluster
 #### Master node
-	Token: K1085a3f133a539227935c3414a1b275036015da177643fca4ff6eb3e5b0aca39b1::server:47aa3cdf1369a8b92b5581f179dd9ee2
+	K3S Token: K1085a3f133a539227935c3414a1b275036015da177643fca4ff6eb3e5b0aca39b1::server:47aa3cdf1369a8b92b5581f179dd9ee2
 
 	
 
-Rancher UI
+Rancher UI: 
 Password: Icetea@123!!
 
 Github oauth app rancher:

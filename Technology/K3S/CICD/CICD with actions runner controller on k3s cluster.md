@@ -18,7 +18,7 @@ Authenticate ARC with a Github APP
 > Note: Detail at [Authenticate with Github app](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners-with-actions-runner-controller/authenticating-to-the-github-api)
 
 1. Craete a github app
-2. Get API Id 
+2. Get API Id: 
 - Using Helm chart
 ```
 	
