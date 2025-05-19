@@ -162,7 +162,8 @@ The above values.yaml file describe that:
 - The runner pod will listen job from your org
 - Secret to authenticate
 - Auto scaling from 1 to 5 instance
-- Using image of txvitdev: Have
+- Using image of txvitdev: Have docker install and install GCC for runby setup
+The Dockerfile of txv
 ### Using OIDC and Aws Role to setup credential of AWS
 
 Explain: 
