@@ -38,5 +38,5 @@ Explain:
 2. **Setup Assume Roles**
 	Go to IAM and create new role
 	- Choose Web identity
-	- Choose identity provider: 
+	- Choose identity provider: token.actions.githubusercontent.com
 3. 
