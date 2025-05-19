@@ -36,4 +36,6 @@ Explain:
 	- Provider URL: https://token.actions.githubusercontent.com
 	- Audience: sts.amazonaws.com
 2. **Setup Assume Roles**
+	Go to IAM and create new role
+	- Choose 
 3. 
