@@ -13,7 +13,6 @@ helm install arc \
     oci://ghcr.io/actions/actions-runner-controller-charts/gha-runner-scale-set-controller
 ```
 
-
 ##### Step 2: Authenticating to github API
 
 ##### Step 3: Deploy runners scale sets
@@ -31,3 +30,4 @@ helm install arc \
 
 ### Using OIDC and Aws Role to setup credential of AWS
 
+1. Setup identity 
