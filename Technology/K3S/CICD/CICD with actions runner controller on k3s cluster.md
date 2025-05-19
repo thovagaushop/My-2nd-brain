@@ -14,7 +14,11 @@ helm install arc \
 ```
 
 ##### Step 2: Authenticating to github API
+- Using Helm chart
+```
+	
 
+```
 ##### Step 3: Deploy runners scale sets
 * Using Helm chart and cli set variable:
 ```
