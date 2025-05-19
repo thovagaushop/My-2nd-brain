@@ -35,7 +35,7 @@ kubectl create secret generic secret_name \
 INSTALLATION_NAME="arc-runner-set"
 NAMESPACE="arc-runners"
 GITHUB_CONFIG_URL="https://github.com/<your_org>"
-GITHUB_PAT="<PAT>"
+GITHUB_PAT="<PAT>" OR <the secret_name in the Authenticate step>
 helm install "${INSTALLATION_NAME}" \
     --namespace "${NAMESPACE}" \
     --create-namespace \
