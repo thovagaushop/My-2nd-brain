@@ -29,6 +29,9 @@ kubectl create secret generic secret_name \
    --from-literal=github_app_installation_id=654321 \
    --from-literal=github_app_private_key='-----BEGIN RSA PRIVATE KEY-----********'
 ```
+
+IceteaSoftware: 
+APP_ID: 
 ##### Step 3: Deploy runners scale sets
 * Using Helm chart and cli set variable:
 ```
