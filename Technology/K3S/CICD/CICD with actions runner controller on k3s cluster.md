@@ -15,7 +15,7 @@ helm install arc \
 
 ##### Step 2: Authenticating to github API
 Authenticate ARC with a Github APP
-
+> Note: Detail at [Authenticate with Github app]()
 1. Craete a github app
 - Using Helm chart
 ```
