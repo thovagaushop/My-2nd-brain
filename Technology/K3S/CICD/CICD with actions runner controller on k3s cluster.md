@@ -37,5 +37,6 @@ Explain:
 	- Audience: sts.amazonaws.com
 2. **Setup Assume Roles**
 	Go to IAM and create new role
-	- Choose 
+	- Choose Web identity
+	- Choose identity provider: 
 3. 
