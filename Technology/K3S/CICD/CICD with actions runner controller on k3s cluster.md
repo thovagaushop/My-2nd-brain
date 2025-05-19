@@ -31,7 +31,8 @@ kubectl create secret generic secret_name \
 ```
 
 IceteaSoftware: 
-APP_ID: 
+APP_ID: 1269788
+
 ##### Step 3: Deploy runners scale sets
 * Using Helm chart and cli set variable:
 ```
