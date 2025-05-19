@@ -30,5 +30,6 @@ helm install arc \
 
 ### Using OIDC and Aws Role to setup credential of AWS
 
-1. Setup identity providers
-2. 
+Explain: 
+1. Create identity providers
+2. Setup Assume Roles 
