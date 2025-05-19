@@ -158,7 +158,8 @@ template:
 
       emptyDir: {}
 ```
-
+The above values.yaml file describe that:
+- The runner pod will listen job from your o
 ### Using OIDC and Aws Role to setup credential of AWS
 
 Explain: 
