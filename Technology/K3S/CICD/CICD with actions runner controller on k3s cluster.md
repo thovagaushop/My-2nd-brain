@@ -20,7 +20,7 @@ Authenticate ARC with a Github APP
 1. Craete a github app
 2. Get API Id: 
 3. Generate Private Key
-4. Install the app with Organizatio
+4. Install the app with Organization and get installation_id
 - Using kubectl
 ```
 kubectl create secret generic secret_name \
@@ -28,7 +28,6 @@ kubectl create secret generic secret_name \
    --from-literal=github_app_id=123456 \
    --from-literal=github_app_installation_id=654321 \
    --from-literal=github_app_private_key='-----BEGIN RSA PRIVATE KEY-----********'
-
 ```
 ##### Step 3: Deploy runners scale sets
 * Using Helm chart and cli set variable:
