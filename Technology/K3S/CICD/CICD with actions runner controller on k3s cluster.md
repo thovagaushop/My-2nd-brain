@@ -46,7 +46,7 @@ helm install "${INSTALLATION_NAME}" \
 
 * Using values.yaml file
 ```
-	
+
 ```
 
 ### Using OIDC and Aws Role to setup credential of AWS
