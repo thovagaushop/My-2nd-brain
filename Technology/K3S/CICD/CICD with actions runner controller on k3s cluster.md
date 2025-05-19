@@ -39,7 +39,6 @@ kubectl create secret generic secret_name \
 * Using values.yaml file
 ```
 	
-
 ```
 
 ### Using OIDC and Aws Role to setup credential of AWS
