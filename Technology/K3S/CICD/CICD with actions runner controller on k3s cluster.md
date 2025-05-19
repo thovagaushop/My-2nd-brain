@@ -32,7 +32,8 @@ kubectl create secret generic secret_name \
 
 IceteaSoftware: 
 APP_ID: 1269788
-
+INSTALLATION_ID: 66693139
+Private key: blc-main-runner.pem
 ##### Step 3: Deploy runners scale sets
 * Using Helm chart and cli set variable:
 ```
