@@ -32,6 +32,6 @@ helm install arc \
 
 Explain: 
 1. Create identity providers
-	go to IAM AWS and Create an Identity Providers
-		
+	Go to IAM and create Identity Provider
+	- Provider U
 2. Setup Assume Roles 
