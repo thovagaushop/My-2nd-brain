@@ -2,4 +2,6 @@
 
 - Guard:
 	- Trường:
-			- Gold to
+			- Gold to promote from last lv 
+	- Claimable:
+		- 
