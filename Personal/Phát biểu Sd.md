@@ -57,4 +57,7 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Vậy vì sao ĐC JS lại phải đến 
 
 	Tại sao ĐC JS phải đến: vì không ai đến thay được
-4. 
+	Vậy ĐC JS là ai? Là ĐCT 
+5. Phần 5
+	
+6. Phần 6. 
