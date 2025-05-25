@@ -50,5 +50,8 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Vậy chính ĐC JS là ĐCT, và mục đích ngài đến ban chúng ta sự sống đời đời
 	Phân tích Giăng 10: 10
 	Ta là ai
-	
-5. 
+	Đến đâu
+	Chiên là gì
+
+	Vậy để chúng ta nhận sự sống đời đời thì nhất định Ngài phải cho ăn trái sự sống 
+4. 
