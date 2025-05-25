@@ -61,4 +61,5 @@ Chia công cuộc 6000 năm làm 3 thời đại
 5. Phần 5
 	Chú ý: Giăng 17: 3
 	LVQ quan trọng, nhưng Đấng Mang LVQ đến quan trọng hơn LVQ hàng trăm lần
+	Vì việc quan trọng là nhận biết Đấng mang đến LVQ - Đấng mang đến sư
 6. Phần 6. 
