@@ -30,5 +30,7 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Nhắc lại là ai có thể tạo ra và đem trái sự sống đến? Là ĐC JS đã nói rằng ngài nói mầu nhiệm ở sáng thế kí 
 
 	Bh hãy đi tìm thực thể của trái ss, muốn biết thì phải hỏi lại ĐC JS => Hãy lục lại hết toàn bọ lời ĐC JS nói trong 4 sách tin lành
-	
+
+	Giăng 6: 53 - 54
+	Tai đây nâhn
 2. Phần 4 
