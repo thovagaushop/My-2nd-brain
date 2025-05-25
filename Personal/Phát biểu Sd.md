@@ -36,5 +36,7 @@ Chia công cuộc 6000 năm làm 3 thời đại
 
 	Trong vườn E den được chép rằng: ăn duy chỉ TSS thì được ssdd, nhưng tại đây được ghi chép rằng ăn duy chỉ thịt. +. huyết của ĐC JS thì được sự sống đời đời,
 	Tức là ngoài thịt + huyết của ĐC JS ra thì không có phương pháp nào có thể giúp chúng ta nhận được sự sống đời đời
-	Hãy nói xác tín 
+	Hãy nói xác tín : Thịt và huyết của ĐC JS chắc chắn là TSS trong vuờn E den 
+
+	
 2. Phần 4 
