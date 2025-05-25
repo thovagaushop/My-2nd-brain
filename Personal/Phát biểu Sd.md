@@ -65,4 +65,5 @@ Chia công cuộc 6000 năm làm 3 thời đại
 6. Phần 6. Thêm 
 	Nhiều người phỉ báng Đấng AXH mang đến LVQ là ĐCT, vậy tôi mang LVQ đến cũng là ĐCT sao? 
 	Kể câu chuyện: Colombus tìm được châu mĩ, khi trở về TBN, nhiều người tri thức chế giễu : Tôi mà đi thì tôi cũng sẽ tìm ra, anh may mắn tìm ra trước thôi
-	Sau đó Colombus lấy ra 1 quả trứng, đố mn là làm sao để quả trứng đấy đứng trên bàn mà không ngã (trức chưa )
+	Sau đó Colombus lấy ra 1 quả trứng, đố mn là làm sao để quả trứng đấy đứng trên bàn mà không ngã (chưa luộc)
+	Không ai làm được, nhưng sau đó Colombus đục 1 lỗ nhỏ bằng cây kim thì trứng đứng được, nhiều người nói 
