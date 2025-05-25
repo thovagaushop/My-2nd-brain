@@ -43,4 +43,6 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Mathio 26:17-19, 26-28
 	Chốt: LVQ là nghi thức nhận được TSS 
 	
-2. Phần 4 
+4.  Phần 4 
+	Đoạn này là d
+5. 
