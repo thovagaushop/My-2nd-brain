@@ -63,3 +63,5 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	LVQ quan trọng, nhưng Đấng Mang LVQ đến quan trọng hơn LVQ hàng trăm lần
 	Vì việc quan trọng là nhận biết Đấng mang đến LVQ - Đấng mang đến sự sống đời đời 
 6. Phần 6. Thêm 
+	Nhiều người phỉ báng Đấng AXH mang đến LVQ là ĐCT, vậy tôi mang LVQ đến cũng là ĐCT sao? 
+	Có 1 
