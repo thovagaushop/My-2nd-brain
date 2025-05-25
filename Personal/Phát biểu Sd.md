@@ -32,5 +32,5 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Bh hãy đi tìm thực thể của trái ss, muốn biết thì phải hỏi lại ĐC JS => Hãy lục lại hết toàn bọ lời ĐC JS nói trong 4 sách tin lành
 
 	Giăng 6: 53 - 54
-	Tai đây nâhn
+	Tai đây nhấn mạnh là **duy chỉ** ăn thịt + huyết của ĐC JS thì mới được nhận sự sống đời đời 
 2. Phần 4 
