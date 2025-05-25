@@ -56,5 +56,5 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Vậy để chúng ta nhận sự sống đời đời thì nhất định Ngài phải cho ăn trái sự sống 
 	Vậy vì sao ĐC JS lại phải đến 
 
-	Tại sao ĐC JS phải đến: vì không ai đến thay d
+	Tại sao ĐC JS phải đến: vì không ai đến thay được
 4. 
