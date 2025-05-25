@@ -79,6 +79,5 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Sau khi người vợ qua đời, 6 năm sau cây đàn bị mất tích và không ai biết nó ở đâu cả
 
 	Sau 6 năm thì người ta đã tìm thấy cây đàn này trên gác mái, và đã được đấu giá, cây đàn thì đã hỏng vì đã bị ngâm dưới nước , nhưng khi đấu giá thì được 1 người mua lại 20k bảng = 24 tỉ VND
-	Và cây đàn này được biểu tượng bởi sự hi sinh và lòng can đảm dù không dùng được mà lại có giá cao
-	
+	Và cây đàn này được biểu tượng bởi sự hi sinh và lòng can đảm dù không dùng được mà lại có giá cao mà có chứa đựng câu chuyện 
 	
