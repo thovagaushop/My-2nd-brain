@@ -59,5 +59,6 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Tại sao ĐC JS phải đến: vì không ai đến thay được
 	Vậy ĐC JS là ai? Là ĐCT 
 5. Phần 5
-	
+	Chú ý: Giăng 17: 3
+	LVQ 
 6. Phần 6. 
