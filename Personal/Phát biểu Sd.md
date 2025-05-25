@@ -68,4 +68,5 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Sau đó Colombus lấy ra 1 quả trứng, đố mn là làm sao để quả trứng đấy đứng trên bàn mà không ngã (chưa luộc)
 	Không ai làm được, nhưng sau đó Colombus đục 1 lỗ nhỏ bằng cây kim thì trứng đứng được, nhiều người nói ôi tôi cũng làm được
 	Vậy trước khi tôi làm thì có ai tìm được không ? 
-	LVQ cũng vậy? Trước khi Cha đến thì không ai biết và dạy về LVQ , duy nhất chỉ có đấng AXH dạy và giữ LVQ là TSSS
+	LVQ cũng vậy? Trước khi Cha đến thì không ai biết và dạy về LVQ , duy nhất chỉ có đấng AXH dạy và giữ LVQ là TSS mà thôi
+	
