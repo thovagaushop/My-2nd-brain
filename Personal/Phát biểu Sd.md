@@ -64,4 +64,4 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Vì việc quan trọng là nhận biết Đấng mang đến LVQ - Đấng mang đến sự sống đời đời 
 6. Phần 6. Thêm 
 	Nhiều người phỉ báng Đấng AXH mang đến LVQ là ĐCT, vậy tôi mang LVQ đến cũng là ĐCT sao? 
-	Có 1 
+	Kể câu chuyện: Colombus tìm được châu mĩ, khi trở về TBN, nhiều người tri thức chế giễu : Tôi mà đi thì tôi cũng sẽ tìm ra, anh may mắn tìm ra 
