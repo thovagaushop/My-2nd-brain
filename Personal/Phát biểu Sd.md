@@ -73,4 +73,4 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Và HT duy nhất đang giữ LVQ là HT ĐCT, dù Cha đã đến và lập LVQ hơn 60 năm rồi, 
 	Tại sao HT chúng ta coi trọng LVQ và tổ chức trọng đại như vậy? 
 	Câu chuyện: Đầu thế kỉ 20 (1902) về con tàu Titanic, đây là 1 con tàu xa hoa bậc nhất nhưng đã bị đắm, 1500 người chết chìm rồi
-	Trên đó có 1 dàn nhạc biểu diễn, 
+	Trên đó có 1 dàn nhạc biểu diễn, 1 người trong đó chơi đàn, đàn được tặng bởi người vợ chưa cưới, và khi tặng thì người này hứa sẽ giữ gìn cây đàn cẩn thận, mỗi 1 buổi tối thì 
