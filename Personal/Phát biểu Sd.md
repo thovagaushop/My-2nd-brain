@@ -15,5 +15,6 @@ Chia công cuộc 6000 năm làm 3 thời đại
 # Phát biểu sinh đồ chủ đề 3
 
 1. Phần 1
-	Hãy nói về A
+	Hãy nói về Alexander, Elizabet, Tần Thuỷ Hoàng
+	Ai cũng muốn tìm về sự đời đo
 2. Phần 2
