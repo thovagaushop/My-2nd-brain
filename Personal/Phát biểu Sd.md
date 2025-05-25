@@ -71,3 +71,4 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	LVQ cũng vậy? Trước khi Cha đến thì không ai biết và dạy về LVQ , duy nhất chỉ có đấng AXH dạy và giữ LVQ là TSS mà thôi
 	
 	Và HT duy nhất đang giữ LVQ là HT ĐCT, dù Cha đã đến và lập LVQ hơn 60 năm rồi, 
+	Tại sao HT chúng ta coi trọng LVQ và tổ chức trọng đại
