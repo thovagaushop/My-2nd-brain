@@ -66,4 +66,6 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Nhiều người phỉ báng Đấng AXH mang đến LVQ là ĐCT, vậy tôi mang LVQ đến cũng là ĐCT sao? 
 	Kể câu chuyện: Colombus tìm được châu mĩ, khi trở về TBN, nhiều người tri thức chế giễu : Tôi mà đi thì tôi cũng sẽ tìm ra, anh may mắn tìm ra trước thôi
 	Sau đó Colombus lấy ra 1 quả trứng, đố mn là làm sao để quả trứng đấy đứng trên bàn mà không ngã (chưa luộc)
-	Không ai làm được, nhưng sau đó Colombus đục 1 lỗ nhỏ bằng cây kim thì trứng đứng được, nhiều người nói 
+	Không ai làm được, nhưng sau đó Colombus đục 1 lỗ nhỏ bằng cây kim thì trứng đứng được, nhiều người nói ôi tôi cũng làm được
+	Vậy trước khi tôi làm thì có ai tìm được không ? 
+	LVQ cũng vậy? Trước khi Cha đến thì không ai biết và dạy về LVQ , duy nhất chỉ có đấng AXH dạy và giữ LVQ là TSSS
