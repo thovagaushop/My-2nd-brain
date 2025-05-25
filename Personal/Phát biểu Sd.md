@@ -60,5 +60,5 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Vậy ĐC JS là ai? Là ĐCT 
 5. Phần 5
 	Chú ý: Giăng 17: 3
-	LVQ 
+	LVQ quan trọng, nhưng Đấng Mang LVQ đến quan trọng hơn LVQ hàng trăm lần
 6. Phần 6. 
