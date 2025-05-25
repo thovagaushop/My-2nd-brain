@@ -20,5 +20,7 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Liên hệ: TD 3:11 - ĐCT đặt sự đời đời vào lòng loài người
 
 	Vậy tại sao loài người không thể tìm được sự sống đời đời - vì họ không biết nguyên nhân sự chết đến từ đâu
-	Nơi nào có vấn đề nơi đó có lời đáp, và chinh
+	Nơi nào có vấn đề nơi đó có lời đáp, và chính ĐC Js đã bật mí cho cả nhân loại về vấn đề này 
+	Mathio 13: 34 - 35
+	66 Quyển KT chỉ có 1 quyển sách làm chứng về việc sáng tạo trời đất mà thôi 
 1. Phần 2
