@@ -27,3 +27,5 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Bài này chủ yếu làm chứng về ĐCT Cha Mẹ nên không cần làm chứng quá kĩ về phần Linh hồn hay NTD ( lạc đề, và đi theo lối mòn khi truyền đạo )
 	Hãy chú ý chỗ Adam và Eva đừng phân tích quá chi tiết biểu hiện cho loài người - sẽ phải giải thích thêm 
 3. Phần 3
+	
+4. Phần 4 
