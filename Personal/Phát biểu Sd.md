@@ -82,5 +82,6 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Và cây đàn này được biểu tượng bởi sự hi sinh và lòng can đảm dù không dùng được mà lại có giá cao mà có chứa đựng câu chuyện đau thương đẹp đẽ của người nghệ sĩ
 
 	Tương tư câu chuyện này, có 1 câu chuyện đau thương đẹp đẽ hơn rất nhiều, vì sao CDN phải ghi nhớ LVQ GUM, vì trong LVQ GUM có chứa đựng sự hi sinh yêu thương đẹp đẽ của đấng Christ
-	Câu chuyện về người nghệ sĩ đã đưo
+	Câu chuyện về người nghệ sĩ đã đương THT sử dụng trong bài TSS và LVQ
+	
 	
