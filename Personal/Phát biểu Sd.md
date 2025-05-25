@@ -23,4 +23,6 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Nơi nào có vấn đề nơi đó có lời đáp, và chính ĐC Js đã bật mí cho cả nhân loại về vấn đề này 
 	Mathio 13: 34 - 35
 	66 Quyển KT chỉ có 1 quyển sách làm chứng về việc sáng tạo trời đất mà thôi 
-1. Phần 2
+2. Phần 2
+	Bài này chủ yếu làm chứng về ĐCT Cha Mẹ nên không cần làm chứng quá kĩ về phần Linh hồn hay NTD
+3. Phần 3
