@@ -44,5 +44,5 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Chốt: LVQ là nghi thức nhận được TSS 
 	
 4.  Phần 4 
-	Đoạn này là d
+	Đoạn này là đoạn quan trọng
 5. 
