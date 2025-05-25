@@ -46,5 +46,9 @@ Chia công cuộc 6000 năm làm 3 thời đại
 4.  Phần 4 
 	Đoạn này là đoạn quan trọng
 	Nhắc lại câu chuyện vườn eden, ai đã đóng con đường đi đến cây sự sống: ĐCT
-	Ai lập LVQ ban cho chúng ta được sự sống
+	Ai lập LVQ ban cho chúng ta được sự sống đời đời 
+	Vậy chính ĐC JS là ĐCT, và mục đích ngài đến ban chúng ta sự sống đời đời
+	Phân tích Giăng 10: 10
+	Ta là ai
+	
 5. 
