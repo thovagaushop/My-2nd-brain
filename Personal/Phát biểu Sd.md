@@ -38,5 +38,7 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Tức là ngoài thịt + huyết của ĐC JS ra thì không có phương pháp nào có thể giúp chúng ta nhận được sự sống đời đời
 	Hãy nói xác tín : Thịt và huyết của ĐC JS chắc chắn là TSS trong vuờn E den 
 
-	
+	Vậy phương pháp ăn thịt + huyết của ĐC JS là gì?
+	(bỏ qua sự tha tội, chỉ tập trung sự sống đời đời )
+	Mathio 26:17-19, 
 2. Phần 4 
