@@ -17,5 +17,8 @@ Chia công cuộc 6000 năm làm 3 thời đại
 1. Phần 1
 	Hãy nói về Alexander, Elizabet, Tần Thuỷ Hoàng
 	Ai cũng muốn tìm về sự đời đời, vĩnh cửu ( kể cả y học phát triển cũng là để tìm kiếm sự sống lâu)
-	Liên hệ: TD 3:11 - ĐCT đặt sự đời đời vào lòng loai
-2. Phần 2
+	Liên hệ: TD 3:11 - ĐCT đặt sự đời đời vào lòng loài người
+
+	Vậy tại sao loài người không thể tìm được sự sống đời đời - vì họ không biết nguyên nhân sự chết đến từ đâu
+	Nơi nào có vấn đề nơi đó có lời đáp, và chinh
+1. Phần 2
