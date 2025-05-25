@@ -33,4 +33,6 @@ Chia công cuộc 6000 năm làm 3 thời đại
 
 	Giăng 6: 53 - 54
 	Tai đây nhấn mạnh là **duy chỉ** ăn thịt + huyết của ĐC JS thì mới được nhận sự sống đời đời 
+
+	Trong vườn E den được chép rằng: ăn duy chỉ TSS thì được ssdd, nhưng tại đây được ghi chép rằng ăn 
 2. Phần 4 
