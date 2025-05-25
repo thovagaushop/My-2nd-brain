@@ -11,3 +11,9 @@ Chia công cuộc 6000 năm làm 3 thời đại
 | Cứu           | Giê hô va        | Jesus            | Danh mới                |
 |               |                  |                  |                         |
 
+
+# Phát biểu sinh đồ chủ đề 3
+
+1. Phần 1
+	Hãy nói về A
+2. Phần 2
