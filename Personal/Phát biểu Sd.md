@@ -45,4 +45,6 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	
 4.  Phần 4 
 	Đoạn này là đoạn quan trọng
+	Nhắc lại câu chuyện vườn eden, ai đã đóng con đường đi đến cây sự sống: ĐCT
+	Ai lập LVQ ban cho chúng ta được sự sống
 5. 
