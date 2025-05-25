@@ -75,5 +75,6 @@ Chia công cuộc 6000 năm làm 3 thời đại
 	Câu chuyện: Đầu thế kỉ 20 (1902) về con tàu Titanic, đây là 1 con tàu xa hoa bậc nhất nhưng đã bị đắm, 1500 người chết chìm rồi
 	Trên đó có 1 dàn nhạc biểu diễn, 1 người trong đó chơi đàn, đàn được tặng bởi người vợ chưa cưới, và khi tặng thì người này hứa sẽ giữ gìn cây đàn cẩn thận, mỗi 1 buổi tối thì đều biểu diễn bằng cây đàn đấy
 	Trong lúc đang biểu diễn thì tàu chìm, mn đang hoảng loạn thì người này đã động viên mn tiếp tục biểu diễn để hành khách bình tĩnh lại, lúc đó ông ấy đã buộc cây đàn rất chặt vào tay, rồi sau đó ông ấy cũng bị chìm,
-	
+	Sau khi đội cứu hộ đến thì thấy cây đàn vẫn buộc trọng tay ông nghệ sĩ này, và người ta đã trao trả lại cây đàn cho người vợ sắp cứoi, người vợ này giữ đến cuối đời
+	Sau khi người vợ qua
 	
