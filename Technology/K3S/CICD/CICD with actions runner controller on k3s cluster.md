@@ -83,8 +83,7 @@ helm install "${INSTALLATION_NAME}" \
 
 helm install arc-runner-set \
     --namespace arc-runners \
-    --create-namespace \
-	 -f runner-set.yaml \
+    --create-namespace -f runner-set.yaml \
     oci://ghcr.io/actions/actions-runner-controller-charts/gha-runner-scale-set
 
 INSTALLATION_NAME="arc-runner-set"
