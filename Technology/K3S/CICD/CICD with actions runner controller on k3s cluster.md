@@ -82,10 +82,9 @@ helm install "${INSTALLATION_NAME}" \
 ```
 
 helm install arc-runner-set \
-    --namespace "${NAMESPACE}" \
+    --namespace arc-runners \
     --create-namespace \
-    --set githubConfigUrl="${GITHUB_CONFIG_URL}" \
-    --set githubConfigSecret.github_token="${GITHUB_PAT}" \
+	 -f runner-set.yaml \
     oci://ghcr.io/actions/actions-runner-controller-charts/gha-runner-scale-set
 
 INSTALLATION_NAME="arc-runner-set"
