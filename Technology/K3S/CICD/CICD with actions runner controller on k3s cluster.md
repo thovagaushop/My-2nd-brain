@@ -83,7 +83,7 @@ helm install "${INSTALLATION_NAME}" \
 
 INSTALLATION_NAME="arc-runner-set"
 NAMESPACE="arc-runners"
-GITHUB_CONFIG_URL="https://github.com/<your_org>"
+GITHUB_CONFIG_URL="https://github.com/Icetea"
 GITHUB_PAT="<PAT>" OR <the secret_name in the Authenticate step>
 helm install "${INSTALLATION_NAME}" \
     --namespace "${NAMESPACE}" \
