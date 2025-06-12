@@ -35,7 +35,7 @@ APP_ID: 1269788
 INSTALLATION_ID: 66693139
 Private key: blc-main-runner.pem
 
-kubectl create secret generic secret_name \
+kubectl create secret generic pre-defined-secret \
    --namespace=arc-runners \
    --from-literal=github_app_id=1269788 \
    --from-literal=github_app_installation_id=66693139 \
